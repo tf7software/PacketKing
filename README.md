@@ -1,4 +1,4 @@
-# PacketKing
+# Packet King by TwentyFour7 Software
 UDP Packet Size Adjuster, For Faster Upload Speeds Than Ever Before
 
 Similar to the no longer updated [Filemail Network Optimizer](https://support.filemail.com/en/articles/1066174-increasing-transfer-speeds-on-macos)
